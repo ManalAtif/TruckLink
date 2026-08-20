@@ -1,0 +1,6 @@
+{
+  "name": "TruckLink",
+  "description": "Driver hiring and onboarding portal connecting verified commercial truck drivers with carrier recruiters, featuring profile moderation and job matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
